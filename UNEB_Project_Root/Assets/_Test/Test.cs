@@ -16,6 +16,7 @@ public class Test : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             Debug.Log("test1");
+            Debug.Log("test Master");
         }
     }
 }
